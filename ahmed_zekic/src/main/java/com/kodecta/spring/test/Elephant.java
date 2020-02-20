@@ -11,7 +11,7 @@ public class Elephant {
         this.name = name;
     }
 
-    public void speak() {
-        System.out.println("I am elephant " + name);
+    public String speak() {
+        return "I am elephant " + name;
     }
 }
