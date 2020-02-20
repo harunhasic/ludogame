@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="person"
+          class="com.kodecta.spring.test.Person">
+    </bean>
+    <bean id="elephant" class="com.kodecta.spring.test.Elephant">
+        <property name="name" value="Slon"/>
+        <property name="age" value="101"/>
+        <property name="type" value="Africki"/>
+    </bean>
+    <bean id="tiger" class="com.kodecta.spring.test.Tiger">
+        <property name="name" value="Tigar"/>
+        <property name="type" value="Bengalski"/>
+    </bean>
+    <bean id="zoo" class="com.kodecta.spring.test.Zoo">
+        <constructor-arg index="0" ref="tiger"/>
+        <constructor-arg index="1" ref="elephant"/>
+    </bean>
+
+</beans>
