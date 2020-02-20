@@ -5,4 +5,21 @@
     <bean id="person"
           class="com.kodecta.tutorial1.Person">
     </bean>
+
+    <bean id="zoo" class="com.kodecta.tutorial1.Zoo">
+        <constructor-arg value="Zoo 1"/>
+        <property name="tiger">
+            <bean id="tiger" class="com.kodecta.tutorial1.Tiger">
+                <property name="voice" value="Argh"></property>
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="elephant" class="com.kodecta.tutorial1.Elephant">
+        <property name="voice" value="Prfff"/>
+    </bean>
+
+    <bean id="zoo2" class="com.kodecta.tutorial1.Zoo">
+        <constructor-arg ref="elephant"></constructor-arg>
+    </bean>
 </beans>
