@@ -1,7 +1,22 @@
 package ba.com.kodecta;
 
+import java.util.ArrayList;
+
 public class Person {
-    public void speak() {
-        System.out.println("Hey, I can speak");
+
+    String name;
+
+    public Person(String n) {
+        name = n;
     }
+
+    public void speak() {
+        System.out.println("Person speaks");
+    }
+
+    public void displayPerson() {
+        System.out.println("Name: "  + name);
+    }
+
+
 }

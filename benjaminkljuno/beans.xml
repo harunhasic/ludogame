@@ -4,5 +4,11 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="person"
           class="ba.com.kodecta.Person">
+        <constructor-arg value="Benjamin"/>
+    </bean>
+    <bean id="tiger"
+          class="ba.com.kodecta.Tiger">
+        <constructor-arg index="0" value="true"/>
+        <constructor-arg index="1" value="Tiger"/>
     </bean>
 </beans>
