@@ -8,6 +8,6 @@ public class App {
         ApplicationContext applicationContext = new FileSystemXmlApplicationContext("beans.xml");
 
         Person person = (Person) applicationContext.getBean("person");
-
+        person.helloWorld();
     }
 }
