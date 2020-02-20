@@ -1,7 +1,19 @@
 package ba.com.kodecta;
 
 public class Person {
-    public void speak() {
-        System.out.println("Hey, I can speak");
+
+    String name;
+
+    public Person(String n) {
+        name = n;
     }
+
+    public String speak() {
+        return "person can speak";
+    }
+
+    public void displayPerson() {
+        System.out.println("Name: " + name);
+    }
+
 }
