@@ -5,4 +5,20 @@
     <bean id="person"
         class="com.kodecta.spring.test.Person">
     </bean>
+    <bean id = "tiger_constructor" class = "com.kodecta.spring.test.Tiger">
+        <constructor-arg type = "java.lang.String" value = "bengalski"/>
+        <constructor-arg type = "java.lang.String" value = "bijela"/>
+    </bean>
+
+
+    <bean id="tiger_properties" class="com.kodecta.spring.test.Tiger">
+        <property name="name">
+            <value>sibirski</value>
+        </property>
+        <property name="color">
+            <value>neka boja</value>
+        </property>
+    </bean>
+
+
 </beans>
