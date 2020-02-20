@@ -3,8 +3,21 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-
     <bean id="person"
           class="com.kodecta.spring.test.Person">
+    </bean>
+
+    <bean id="tiger" class="com.kodecta.spring.test.Tiger">
+        <property name="name" value="Bob" />
+        <property name="sound" value="RAWWWWR" />
+    </bean>
+
+    <bean id="ElephantBuilder" class="com.kodecta.spring.test.ElephantBuilder">
+        <property name="name" value="Sal" />
+        <property name="sound" value="CHUUUUUUU" />
+    </bean>
+
+    <bean id="elephant" class="com.kodecta.spring.test.Elephant">
+        <constructor-arg ref="ElephantBuilder" />
     </bean>
 </beans>
