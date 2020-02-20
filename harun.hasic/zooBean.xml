@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="tiger"
+          class="com.kodecta.spring.test.Tiger">
+
+        <constructor-arg index="0" value="Orange"/>
+        <constructor-arg index="1" value="5"/>
+    </bean>
+    <bean id="elephant"
+          class="com.kodecta.spring.test.Elephant">
+
+        <constructor-arg index="0" value="Gray"/>
+        <constructor-arg index="1" value="6"/>
+    </bean>
+    <bean id="zoo"
+          class="com.kodecta.spring.test.Zoo">
+        <constructor-arg index="0" ref="tiger"/>
+        <constructor-arg index="1" ref="elephant"/>
+    </bean>
+
+</beans>
