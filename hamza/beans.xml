@@ -3,6 +3,12 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="person"
-          class="com.kodecta.spring.test.Person">
+          class="com.kodecta_spring_test.person">
+
+    </bean>
+    <bean id="zoo"
+    class="com.kodecta_spring_test.zoo">
+      <!-- <property name="animal" value="Elephant"/>-->
+        <constructor-arg value="Lion"></constructor-arg>
     </bean>
 </beans>
