@@ -9,6 +9,8 @@ public class App {
         ApplicationContext context = new FileSystemXmlApplicationContext("beans.xml");
 
         Person person = (Person)context.getBean("person");
-        person.speak();
+//        person.speak();
+        Zoo animal = (Zoo)context.getBean("zoo");
+        animal.info();
     }
 }
