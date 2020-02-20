@@ -2,9 +2,9 @@ package com.kodecta.spring.test;
 
 public class Person {
 
-    public void speak() {
+    public String speak() {
 
-        System.out.println("");
+        return "Hello I'm person";
 
     }
 
