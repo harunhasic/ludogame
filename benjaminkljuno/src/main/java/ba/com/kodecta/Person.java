@@ -1,8 +1,11 @@
 package ba.com.kodecta;
 
-import java.util.ArrayList;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class Person {
+
+    public static final Logger log = LoggerFactory.getLogger(App.class);
 
     String name;
 
@@ -10,8 +13,8 @@ public class Person {
         name = n;
     }
 
-    public void speak() {
-        System.out.println("Person speaks");
+    public String speak() {
+        return "person can speak";
     }
 
     public void displayPerson() {
