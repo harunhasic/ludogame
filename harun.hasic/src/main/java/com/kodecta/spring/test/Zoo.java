@@ -1,5 +1,9 @@
 package com.kodecta.spring.test;
 
+import org.slf4j.LoggerFactory;
+
+import java.util.logging.Logger;
+
 public class Zoo {
 
     Tiger tiger;
