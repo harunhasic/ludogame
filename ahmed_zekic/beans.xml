@@ -12,5 +12,22 @@
 
     </bean>
 
+    <bean id="tiger"
+          class="com.kodecta.spring.test.Tiger" >
+        <property name="name" value = "Munja" />
+    </bean>
+
+    <bean id="elephant"
+          class="com.kodecta.spring.test.Elephant" >
+        <property name="name" value = "Grom" />
+    </bean>
+
+    <bean
+            id="zoo"
+            class="com.kodecta.spring.test.Zoo" >
+        <constructor-arg index="0" ref="tiger" />
+        <constructor-arg index="1" ref="elephant" />
+    </bean>
+
 </beans>
 
