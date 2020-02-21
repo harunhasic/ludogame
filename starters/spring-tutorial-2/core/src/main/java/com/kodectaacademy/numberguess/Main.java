@@ -25,7 +25,7 @@ public class Main {
         log.info("range = [{}, {}]", game.getSmallest(), game.getBiggest());
 
         int guess = 23;
-        log.info("trying {}}...", guess);
+        log.info("trying {}...", guess);
         game.setGuess(guess);
         game.check();
         if(game.isGameWon()) {
