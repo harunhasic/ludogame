@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6e7af20-7ed6-4120-aea7-222440181022" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request-[2, tusam, evome]1582809602311.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request-[3, tusam, evome]1582809646585.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request-[4, tusam, evome]1582809658617.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request-[5, tusam, evome].txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request[1, tusam, evome]1582809004188.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request_[10, tusam, evome].txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../springbootREQEST_request_[6, tusam, evome].txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/sonarlint/issuestore/0/b/0b830ca8190289a84b5abfbc5c536d5dc845d4b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/sonarlint/issuestore/1/2/12805d0e585f81ec9f098974742acd4dc27b42f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/sonarlint/issuestore/6/c/6cc4447d2662f8d86a783c6639fdb33a8c3b4c03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/sonarlint/issuestore/9/7/97482053259ffd2a09ed50b6ca3ea33114ea6a57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/.springBeans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/src/main/java/com/kodecta/spring/test/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/src/main/java/com/kodecta/spring/test/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/src/main/java/com/kodecta/spring/test/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/src/main/java/com/kodecta/spring/test/config/RobotConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-components1/src/main/resources/config/robot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/5/7/57a8cf820418ff628c2453c9dbd6acc36f51e0eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/6/8/6825a8465faea61921e3cffd162a400c4a13991a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/9/e/9e699a3d8af724930dc37c93e6f8dd7b4924a1a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/c/f/cff0d6e0500168195a5af23699b20a7dca6dd87f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/e/8/e8935a66651f074ac8ff018b47d3e897c6bbdf02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/spring-tutorial-springboot1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/src/main/java/com/kodecta/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/src/main/java/com/kodecta/Configuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/src/main/java/com/kodecta/controller/RestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/src/main/java/com/kodecta/service/SchedulerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/src/main/java/com/kodecta/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../examples/spring-tutorial-springboot1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1YNzGbWhUfNgHTLwb8Nk4itysTv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e7af20-7ed6-4120-aea7-222440181022" name="Default Changelist" comment="" />
+      <created>1582753658799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582753658799</updated>
+      <workItem from="1582797746432" duration="12336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>openjdk11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
