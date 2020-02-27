@@ -26,12 +26,12 @@ public class RestController {
     private Environment environment;
 
     @GetMapping("/get/{id}")
-    Object getFile(@PathVariable("id") Long id){
+    Object getFile(@PathVariable("id") Long id) {
         File dir = new File(environment.getProperty("mount-folder-req"));
 
         File[] foundFiles = dir.listFiles(new FilenameFilter() {
             public boolean accept(File dir, String name) {
-                return name.startsWith(environment.getProperty("file-prefix-request")+id.toString()+"-");
+                return name.startsWith(environment.getProperty("file-prefix-request") + id.toString() + "-");
             }
         });
         for (File file : foundFiles) {
@@ -41,18 +41,18 @@ public class RestController {
     }
 
     @PutMapping("/put/{id}")
-    Object changeFile(@PathVariable("id") Long id, @RequestBody String requestBody){
+    Object changeFile(@PathVariable("id") Long id, @RequestBody String requestBody) {
         JSONObject response = new JSONObject();
 
         File dir = new File(environment.getProperty("mount-folder-req"));
 
         File[] foundFiles = dir.listFiles(new FilenameFilter() {
             public boolean accept(File dir, String name) {
-                return name.startsWith(environment.getProperty("file-prefix-request")+id.toString()+"-");
+                return name.startsWith(environment.getProperty("file-prefix-request") + id.toString() + "-");
             }
         });
 
-        if(foundFiles.length == 0){
+        if (foundFiles.length == 0) {
             response.put("message", "File not found");
             return response;
         }
@@ -76,6 +76,28 @@ public class RestController {
         }
         return response;
     }
+    @DeleteMapping("/delete/{id}")
+    Object delete(@PathVariable("id") Long id, @RequestBody String requestBody) {
+        JSONObject response = new JSONObject();
+
+        File dir = new File(environment.getProperty("mount-folder-req"));
+
+        File[] foundFiles = dir.listFiles(new FilenameFilter() {
+            public boolean accept(File dir, String name) {
+                return name.startsWith(environment.getProperty("file-prefix-request") + id.toString() + "-");
+            }
+        });
+        if(foundFiles.length==0){
+            response.put("message", "Files not found");
+            return response;
+        }
+        for (File file : foundFiles) {
+            file.delete();
+            response.put("message", "success");
+                    }
+                return response;
+            }
+
     @PostMapping("/request")
     Object saveRequest(@RequestBody String requestBody) {
         JSONParser parser = new JSONParser();
@@ -87,7 +109,10 @@ public class RestController {
         }
         return this.writeFile(jsonObject, "request");
     }
-    public JSONObject writeFile(JSONObject jsonObject, String operation) {
+
+
+
+        public JSONObject writeFile(JSONObject jsonObject, String operation) {
         long fileExtDATE = (new Date()).getTime();
 
         StringBuilder builder = new StringBuilder();
