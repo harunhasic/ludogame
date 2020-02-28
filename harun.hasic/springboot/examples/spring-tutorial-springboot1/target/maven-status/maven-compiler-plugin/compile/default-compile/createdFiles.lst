@@ -1,5 +1,0 @@
-com\kodecta\Configuration.class
-com\kodecta\Application.class
-com\kodecta\controller\RestController.class
-com\kodecta\service\SchedulerExample.class
-com\kodecta\utils\Utils.class
