@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.kodecta.academy</groupId>
     <artifactId>ludo-game</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>ludo-game</name>
     <description>Demo project for Spring Boot</description>
 
@@ -48,7 +48,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/harunhasic/ludogame.git</developerConnection>
-      <tag>ludo-game-0.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
